@@ -1,4 +1,4 @@
-#Sat Dec 23 09:57:31 GMT+03:00 2023
+#Sat Dec 23 10:12:32 GMT+03:00 2023
 base.0=C\:\\project\\AudioPlayer\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

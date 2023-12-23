@@ -13,12 +13,12 @@ class AudioInfo extends StatelessWidget {
         ),
         const SizedBox(height: 30),
         const Text(
-          'Ukulele',
+          'Акулель',
           style: TextStyle(fontSize: 30),
         ),
         const SizedBox(height: 20),
         const Text(
-          'Benjamin Tissot',
+          'Исполнитель: Максимов',
           style: TextStyle(
             fontSize: 16,
             color: Colors.red,
