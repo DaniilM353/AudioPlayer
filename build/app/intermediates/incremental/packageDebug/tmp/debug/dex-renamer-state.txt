@@ -1,0 +1,4 @@
+#Sat Dec 23 09:33:28 GMT+03:00 2023
+base.0=C\:\\project\\flutter-audio-player-tutorial\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

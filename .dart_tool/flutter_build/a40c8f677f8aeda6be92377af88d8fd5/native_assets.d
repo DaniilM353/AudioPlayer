@@ -1,0 +1,1 @@
+ C:\\project\\AudioPlayer\\.dart_tool\\flutter_build\\a40c8f677f8aeda6be92377af88d8fd5\\native_assets.yaml: 
